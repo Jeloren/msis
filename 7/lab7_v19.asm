@@ -1,5 +1,5 @@
 format PE GUI 4.0   
-entry start
+entry start 
 
 include 'C:\Users\jar0s\msis\INCLUDE\WIN32A.INC'
 
